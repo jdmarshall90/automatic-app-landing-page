@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : adjust
     
   - title                                 : Free software
-    description                           : Licensed under the GNU General Public License v3 (or later).
+    description                           : Freedom-respecting GNU General Public License v3 (or later)
     fontawesome_icon_name                 : info-circle
     
 plugins:
